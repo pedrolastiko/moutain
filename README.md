@@ -1,8 +1,6 @@
-# Liste des sites de montagne
+# Mountain Website listing / Liste des sites de montagne
 
 ## 🇫🇷 France 🇫🇷
-<center>
-
 [![Alpin Store](https://cdn1.alpinstore.com/img/alpinstore-logo-1571174621-en.png =400x)](https://www.alpinstore.com/)
 
 [![Alpiniste](https://www.alpiniste.fr/out/bf/9/pictures/img/bergfreunde-logo.svg =400x)]([lien](https://www.alpiniste.fr/))
@@ -86,7 +84,6 @@
 [![Vertical Moutain](https://cdn.shopify.com/s/files/1/0267/8682/4368/files/logo-noir_400x@2x.png?v=1602064331 =400x)](https://www.verticalmountain.com/)
 
 [![XSPO](https://meineinkauf.ch/fileadmin/_processed_/a/2/csm_596_xspo-cross-sports_28cb69faaf.png =400x)](https://www.xspo.fr/)
-</center>
 
 ## 🇨🇭 Switzerland 🇨🇭
 <center>
